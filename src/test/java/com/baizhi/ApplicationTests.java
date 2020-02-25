@@ -18,9 +18,13 @@ public class ApplicationTests {
         System.out.println("这是第二次修改");
 
         System.out.println("开发者1");
+        System.out.println("开发者2");
         int a1 = 10;
         int b1 = 20;
+        int a2 = 10;
+        int b2 = 20;
         System.out.println("开发者1");
+        System.out.println("开发者2");
     }
 
 }
