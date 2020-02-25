@@ -31,6 +31,8 @@ public class GitTests {
         int aaaa = 10;
         int bbbb = 20;
         System.out.println("这是第六次修改");
+
+        String str = "hello";
     }
 
 }
