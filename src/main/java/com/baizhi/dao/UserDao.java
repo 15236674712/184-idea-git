@@ -9,4 +9,7 @@ public interface UserDao {
     List<User> queryAll();
 
     User queryById(String id);
+
+    User queryByName(String id);
+
 }
