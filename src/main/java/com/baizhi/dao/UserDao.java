@@ -7,4 +7,6 @@ import java.util.List;
 public interface UserDao {
 
     List<User> queryAll();
+
+    User queryById(String id);
 }
