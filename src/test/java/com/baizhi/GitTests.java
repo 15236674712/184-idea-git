@@ -26,6 +26,11 @@ public class GitTests {
         int aaa = 10;
         int bbb = 20;
         System.out.println("这是第五次修改");
+
+        System.out.println("这是第六次修改");
+        int aaaa = 10;
+        int bbbb = 20;
+        System.out.println("这是第六次修改");
     }
 
 }
